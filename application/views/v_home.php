@@ -27,8 +27,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="#about">About us</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#projects"> future Projects</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#projects"> Future Projects</a></li>
                         <li class="nav-item"><a class="nav-link" href="#signup">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="login">Login</a></li>
                     </ul>
                 </div>
             </div>
